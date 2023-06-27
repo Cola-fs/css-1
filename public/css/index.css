@@ -118,7 +118,7 @@ a[href] {
     color: red;
 }
 
-.lesson-three-task-ten p::first-line {
+.lesson-three-task-ten::first-line {
     background: yellow;
 }
 
